@@ -104,6 +104,8 @@ body{
         align-items: center;
         justify-content: center;
         background-image: url(./images/bg-pattern-top-desktop.svg), url(./images/bg-pattern-bottom-desktop.svg);
+        background-size:auto;
+        background-position: 0 0, 100% 100%;
     }
     .mainContainer{
         display: grid;
