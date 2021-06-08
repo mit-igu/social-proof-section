@@ -103,6 +103,7 @@ body{
         display:flex;
         align-items: center;
         justify-content: center;
+        background-image: url(./images/bg-pattern-top-desktop.svg), url(./images/bg-pattern-bottom-desktop.svg);
     }
     .mainContainer{
         display: grid;
